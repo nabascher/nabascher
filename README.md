@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nabascher! 
-- 👀 I’m interested in GIS and automation for geoprocessing workflows 
-- 🌱 I’m currently learning Python, SQL, C#, Linux, Whitebox Tools, and GDAL 
-- ✨ I work for Logan Simpson Design as a GIS Analyst 
+- 👀 I’m interested in Data Analytics, GIS and automation for geoprocessing and analytics workflows 
+- 🌱 I’m currently learning Python, SQL, C#, Linux, Whitebox Tools, Spark Streaming, Power BI and GDAL 
+- ✨ I'm currently teaching English in Taiwan but I am interested in learning more about Data Analytics, GIS, and BI roles beginning in August, 2024 
 - 💞️ I’m looking to collaborate on Open Source and ESRI automation  
 - 📫 You may reach me at nbasch@verizon.net
 
